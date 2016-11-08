@@ -27,3 +27,13 @@
 *.exe
 *.out
 *.app
+
+# default
+*.exe
+*.pyc
+*.swp
+*.out
+*.d
+GPATH
+GTAGS
+GRTAGS
